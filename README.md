@@ -7,6 +7,6 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Algo aún por definir ... para descargar, actualizar, compilar e inyectar de forma automática el Cheat / Hack OSIRIS para Counter-Strike: Global Offensive (CS:GO).
+# Algo aún por definir ¿ Un Batch / Script / Ejecublable / o Algo ? ... para descargar, actualizar, compilar e inyectar de forma automática el Cheat / Hack OSIRIS para Counter-Strike: Global Offensive (CS:GO).
 
 **En Construcción ... **:
