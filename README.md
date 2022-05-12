@@ -1,5 +1,5 @@
 # MiWO™ - OSIRIS™ MultiHack Loader Script
-# para Windows 11 / Windows 10
+# para Entornos Microsoft Windows 11 / Windows 10
 **Script Diseñado para hacer ByPass al sistema de seguridad [**VAC** (Valve Anti-Cheat System)](https://help.steampowered.com/es/faqs/view/571A-97DA-70E9-FF74) de [Valve Corporation](https://www.valvesoftware.com/)**
 
 ![text](https://www.ginx.tv/uploads/Shroud_csgo.jpg)
@@ -12,4 +12,4 @@
 
 # Linux Shell Script para descargar, actualizar, compilar e inyectar de forma automática el Cheat / Hack OSIRIS para Counter-Strike: Global Offensive (CS:GO).
 
-**Prerrequisitos**:
+**En Construcción ... **:
